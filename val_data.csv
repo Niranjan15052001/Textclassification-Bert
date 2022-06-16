@@ -1,0 +1,401 @@
+text,intent
+what time is it in france,time
+what's the time in london right now,time
+what hour is it in london,time
+what's the time,time
+what is the time in london,time
+i need to know what time it is,time
+what time of day is it in london,time
+tell me what time it is,time
+what time of day is it,time
+what time is it in the pacific timezone,time
+what time is it in pacific standard time,time
+what time is it over in pacific time,time
+what time is in over there in pacific standard time,time
+what time is it in the pacific standard time,time
+what is the time in paris now,time
+time in manhattan,time
+how late is it now in ourense,time
+what is the current time right now in hollywood,time
+what time is it now in michigan,time
+what's the clock say,time
+"i'm not sure if watermelon is on my shopping list, but if it isn't can you put it on there",shopping_list_update
+is it possible to add grapes to my shopping list if they aren't on there already,shopping_list_update
+please add bananas to my shopping list unless i already did,shopping_list_update
+can you add apples to my shopping list if they aren't already on there,shopping_list_update
+would you be willing to add bread to my shopping list if i haven't already,shopping_list_update
+"i'm out of cleaning supplies, remind me on my list",shopping_list_update
+"i don't have any more steak, please put that on my grocery list",shopping_list_update
+"i'm out of apples, add that to my list",shopping_list_update
+"i have no oranges, put them onto my list",shopping_list_update
+do i have peanuts on my shopping list if not please add it,shopping_list_update
+do i have soda on my shopping list if not please add it,shopping_list_update
+i'm out of kleenex so will you put that on my shopping list,shopping_list_update
+i'm out of paper towels so will you put that on my shopping list,shopping_list_update
+i'm out of toilet paper so will you put that on my shopping list,shopping_list_update
+do i have graham crackers on my shopping list if not please add it,shopping_list_update
+i'm out of clorox wipes so will you put that on my shopping list,shopping_list_update
+do i have tortillas on my shopping list if not please add it,shopping_list_update
+i'm out of laundry detergent so will you put that on my shopping list,shopping_list_update
+do i have cheese on my shopping list if not please add it,shopping_list_update
+i'd like you to add oranges to my shopping list,shopping_list_update
+whats the reward balance for my visa,rewards_balance
+for my visa what's my reward balance,rewards_balance
+i need know know the reward balance for my visa,rewards_balance
+can you tell me my visa's reward balance,rewards_balance
+what's my visa cards balance for rewards,rewards_balance
+how many points do i have with my american express,rewards_balance
+tell me the points on my delta rewards card,rewards_balance
+how many points on my chase unlimited card,rewards_balance
+what is my kohls card's rewards balance,rewards_balance
+what is my gymboree card's rewards balance,rewards_balance
+what is my old navy card's rewards balance,rewards_balance
+how do i check my rewards for my maurices card,rewards_balance
+how do i check my rewards for my chase card,rewards_balance
+what is my amazon card's rewards balance,rewards_balance
+how do i check my rewards for my old navy card,rewards_balance
+what is my maurices card's rewards balance,rewards_balance
+how do i check my rewards for my capital one card,rewards_balance
+how do i check my rewards for my target card,rewards_balance
+how many points have i earned with my amex card,rewards_balance
+how many points have i earned with my chase card,rewards_balance
+i want to hear that again,repeat
+repeat that for me,repeat
+could that be repeated,repeat
+can you repeat what you said,repeat
+i did not hear what you said,repeat
+what did you just ask,repeat
+can you ask me that again,repeat
+what question did you just ask me,repeat
+can you repeat that question,repeat
+what was said,repeat
+what,repeat
+repeat that once more,repeat
+please repeat what you said,repeat
+please ask me again,repeat
+"i'm sorry, i didn't understand what you said",repeat
+what did you ask again,repeat
+please say that again,repeat
+can you repeat that please,repeat
+what was that question again,repeat
+i'm sorry please repeat the question,repeat
+that's definitely true,yes
+"yup, that's true",yes
+"yes, that is true for sure",yes
+i know that is true,yes
+"true, most definitely",yes
+facts,yes
+you are not wrong about that,yes
+that makes sense as well,yes
+you are correct,yes
+agreed,yes
+accepted,yes
+confirmed,yes
+approved,yes
+i want you to know it's a true statement,yes
+i know that the statement is true,yes
+this is a true statement,yes
+the statement is true,yes
+i'm telling you this is a true statement,yes
+that's a yes,yes
+affirmitive,yes
+what is covered under my insurance,insurance
+what benefits do i have for insurance,insurance
+what is my insurance coverage,insurance
+which insurance do i have,insurance
+what kind of insurance do i have,insurance
+what insurance do i have,insurance
+which insurance plan do i have,insurance
+what is the name of the insurance plan i am enrolled in,insurance
+i am enrolled in what insurance plan,insurance
+what is the insurance plan i am enrolled in,insurance
+i am enrolled in an insurance plan and need to know what it is,insurance
+"i enrolled in an insurance plan, what one was it",insurance
+which was my insurance plan again,insurance
+what insurance plan do i have,insurance
+how is my insurance coverage,insurance
+my insurance plan is what,insurance
+what plan am i paying for,insurance
+do you know my health benefits,insurance
+what are my health benefits like,insurance
+could you list my health benefits,insurance
+can you cancel my todo list please,todo_list_update
+wipe my todo list please,todo_list_update
+can you delete my todo list please,todo_list_update
+remove my todo list,todo_list_update
+please delete my todo list,todo_list_update
+can you add laundry to my to do list,todo_list_update
+put laundry on my chore list,todo_list_update
+erase my to do list,todo_list_update
+i need to do laundry later today,todo_list_update
+put laundry on my list of things to do,todo_list_update
+clear my to do list,todo_list_update
+erase the items on my to do list,todo_list_update
+i'm finished with my to do list,todo_list_update
+i need laundry to be put on my list of things to do,todo_list_update
+please delete the items on my to do list,todo_list_update
+"remind me to wash the dog, put on list of things to do",todo_list_update
+add to my list of things to do: wash the dog,todo_list_update
+please put wash the dog on my list of things to do,todo_list_update
+put wash the dog on my to do list please,todo_list_update
+add wash the dog to my list of things to do,todo_list_update
+sync phone,sync_device
+please pair my phone,sync_device
+don't connect to my phone anymore,sync_device
+i need you to pair with my phone please,sync_device
+don't sync to my phone anymore,sync_device
+sync with my phone,sync_device
+disconnect from phone,sync_device
+stop synching to my phone,sync_device
+can you pair with my phone,sync_device
+please pair with my phone,sync_device
+disconnect sync from my phone,sync_device
+unsync yourself from my phone please,sync_device
+stop syncing with my phone,sync_device
+i'd like you to pair with my phone,sync_device
+i need you to pair with my phone,sync_device
+don't sync with my phone,sync_device
+pair with phone,sync_device
+connect with my phone,sync_device
+please add onto my phone,sync_device
+put a device with my phone,sync_device
+my card was damaged by bleach,damaged_card
+my card was cut by my kid,damaged_card
+my card is ruined and isn't working,damaged_card
+my card isn't working because its destroyed,damaged_card
+my card is messed up from carding my door,damaged_card
+my card was in my pocket and bent,damaged_card
+my card has a burn on it,damaged_card
+my card is impaired and i can't use it,damaged_card
+my card is scuffed up and won't work,damaged_card
+my card seems to not work because its blemished,damaged_card
+i broke my card trying to do a magic trick,damaged_card
+"when my house burned down, so did my card",damaged_card
+i broke my card scraping snow off the windshield,damaged_card
+i broke my card when i bent my wallet,damaged_card
+i ruined my card when it got washed,damaged_card
+how can i get a new card that got melted in the sun,damaged_card
+my card got dropped in the shredded and i need it replaced,damaged_card
+my card was destroyed when my house burned down and i need a replacement,damaged_card
+i accidentally caught my card on fire,damaged_card
+i accidentally shredded my card,damaged_card
+what day is the next holiday,next_holiday
+what holiday is coming up,next_holiday
+the next holiday is when,next_holiday
+which holiday do we celebrate next,next_holiday
+i want to know when is the next holiday,next_holiday
+what and when is the next holiday,next_holiday
+i need to know when's the next holiday,next_holiday
+is there a holiday this month,next_holiday
+does march have a holiday,next_holiday
+do we get monday off as a holiday,next_holiday
+when do i get my next day off,next_holiday
+i'd like to know when my next day off is,next_holiday
+i want to know when is the next holiday here,next_holiday
+when will be the next holiday here,next_holiday
+please tell me when is the next holiday here,next_holiday
+i need to know when is the next holiday here,next_holiday
+i would like to know when is the next holiday here,next_holiday
+when is the next break,next_holiday
+when do we have free day,next_holiday
+when is the next holiday in this country,next_holiday
+make your volume quieter please,change_volume
+adjust the volume to level 4,change_volume
+i want your volume decreased please,change_volume
+could you please raise your volume,change_volume
+i want your volume lowered,change_volume
+i want your volume louder,change_volume
+i want the volume at 4 please,change_volume
+i want the volume at level 4,change_volume
+a volume of 4 is ideal please,change_volume
+i need your volume increased,change_volume
+can you please turn your volume down,change_volume
+please turn the volume to 4,change_volume
+please turn your volume up,change_volume
+turn down your volume please,change_volume
+turn up your volume,change_volume
+could you increase the speaker volume please,change_volume
+would you please increase the speaker volume,change_volume
+increase the speaker volume please,change_volume
+can you increase the speaker volume please,change_volume
+please turn your speaker volume up,change_volume
+whats this song,what_song
+nice song what is it,what_song
+"cool song, what is it",what_song
+what music is this,what_song
+is this a song that i dont know,what_song
+what’s the name of this song,what_song
+what is the current tune,what_song
+what am i listening to right now,what_song
+what is the name of the song playing right now,what_song
+what is that song called,what_song
+name this song,what_song
+what's that song on the speaker now,what_song
+what's the name of the song playing right now,what_song
+what song is playing right now,what_song
+do you know the song on the speaker right now,what_song
+what's that song that is playing now,what_song
+what is that tune,what_song
+tell me the title of the song playing,what_song
+i need this song title,what_song
+what song am i hearing,what_song
+by chance would it be possible to reserve me a hotel in afghanistan at the zoo for the 10th to the 15th,book_hotel
+is it possible for a hotel to be booked by you for me in afghanistan at the zoo for the 10th to the 15th,book_hotel
+could you book me a hotel in afghanistan at the zoo for the 10th to the 15th,book_hotel
+could a hotel be booked for me in afghanistan at the zoo for the 10th to the 15th,book_hotel
+can you reserve a hotel for myself a hotel in afghanistan at the zoo for the 10th to the 15th,book_hotel
+i need to reserve a large room or suite for 2 couples for august 15th through august 18th in seattle,book_hotel
+i need to book a hotel room or suite for 2 adults and 2 children in orlando for july 1st through 5th,book_hotel
+i need a hotel room for 7 people in st louis for november 3rd through 5th,book_hotel
+"i need a suite that can accommodate 3 adults and 1 child in san diego for may 15th, 16th, and 17th",book_hotel
+show me a hotel in boise that has positive reviews,book_hotel
+i need a hotel with good reviews in baltimore,book_hotel
+find hotels in baltimore that have positive reviews,book_hotel
+show me a hotel that has good reviews in kansas city,book_hotel
+i am looking for a hotel in new york city that has good reviews,book_hotel
+could you book me a hotel in tampa from may 2 to may 4,book_hotel
+help me book a place to stay from may 2 to may 4 in tampa,book_hotel
+can you make a reservation in tampa from may 2 to may 4,book_hotel
+i want to book a hotel in tampa from may 2 to may 4,book_hotel
+make me a reservation in tampa from may 2 to may 4,book_hotel
+book a motel in uptown from march 3 to march 4,book_hotel
+how much money a year do i spend in taxes,taxes
+how much am i being taxed,taxes
+what are my tax costs,taxes
+what kinds of taxes am i facing,taxes
+what's my income tax,taxes
+what's the tax bracket for my income,taxes
+what does it look like i will be paying in federal taxes this year,taxes
+what do i get taxed at my income level,taxes
+what is my tax burden,taxes
+can you tell me what my federal tax burden is,taxes
+how much am i taxed each year,taxes
+do you know how much i pay in taxes,taxes
+how much do i pay in taxes every year,taxes
+what's my federal tax this year,taxes
+i need to know my tax rate,taxes
+what is the tax rate that applies to me,taxes
+how much do i need to pay in tax,taxes
+what's my tax rate,taxes
+tell me my tax rate,taxes
+what amount do i owe in taxes,taxes
+how many vacation days have i saved up,pto_balance
+how many vacation days do i have at my disposal,pto_balance
+how many hours of vacation have i saved up,pto_balance
+how many vacation days have i accumulated,pto_balance
+how many pto days are available,pto_balance
+how much vacation do i have saved,pto_balance
+how much vacation have i earned,pto_balance
+what number of pto days do i have left,pto_balance
+how many weeks of vacation do i have,pto_balance
+how many days of vacation do i have saved,pto_balance
+i need to know how many pto days are left,pto_balance
+whats the number of pto days i have to my availability,pto_balance
+how many pto days are in my possesion,pto_balance
+what number of vacation days do i have available,pto_balance
+what number of vacation days do i have at my disposal,pto_balance
+could you let me know how many pto days do i have left,pto_balance
+could you tell me how many pto days do i have left,pto_balance
+can you let me know how many pto days do i have left,pto_balance
+can you tell me how many pto days do i have left,pto_balance
+what is the amount of time i can request off in the coming year,pto_balance
+what kind of interest can i expect with my chase account,interest_rate
+how much interest am i getting in my citibank savings,interest_rate
+how much interest do i get on my citizen's savings account,interest_rate
+what kind of interest am i getting from my bank of america checking,interest_rate
+what's my interest rate with my capital one account,interest_rate
+what is walker bank paying me in interest on my account,interest_rate
+where do i go to get private client account's interest rate,interest_rate
+what interest rate am i getting currently from oak bank,interest_rate
+how much interest am i getting percentage wise from chase,interest_rate
+what is my interest rate for my scotiabank account,interest_rate
+where can i find my voca account's interest rate,interest_rate
+how can i find the current interest rate for my account ending in 9012,interest_rate
+what interest rate is us bank giving me on my acount,interest_rate
+where do i find the interest rate for my platinum account,interest_rate
+where can i locate the pnc account's interest rate,interest_rate
+what is the interest rate on my auto loan,interest_rate
+how much is the interest rate on my home equity loan,interest_rate
+tell me what the interest rate is on my personal loan through chase,interest_rate
+whats the amount of interest i'm paying on my mortgage,interest_rate
+what is the interest rate at pnc,interest_rate
+how do i change my credit limit,credit_limit_change
+how can up my credit limit,credit_limit_change
+how can i make a change to my credit limit,credit_limit_change
+can i make a change to my credit limit,credit_limit_change
+how do i increse my credit limit,credit_limit_change
+is there a way to increase the limit of my credit to 5000 dollars,credit_limit_change
+i would like to have my credit increased to 5000 dollars,credit_limit_change
+i want to increase my credit limit to 5000 dollars,credit_limit_change
+could my credit be increased to 5000 dollars,credit_limit_change
+i need my credit limit changed,credit_limit_change
+the credit limit i have needs to be changed,credit_limit_change
+can you help me change my credit limit,credit_limit_change
+my credit limit needs to me changed,credit_limit_change
+i would like my credit limit increased to 5000 dollars,credit_limit_change
+i would like to change my credit limit,credit_limit_change
+can i increase my credit limit,credit_limit_change
+raise my credit limit,credit_limit_change
+increase my credit limit,credit_limit_change
+i'd like to increase my credit limit,credit_limit_change
+can you help me increase my credit limit,credit_limit_change
+will you please read the things on my shopping list,shopping_list
+what is on my shopping list,shopping_list
+can you read the things to me that are on my shopping list,shopping_list
+can you read the things on my shopping list,shopping_list
+is it possible for you to read the things on my shopping list,shopping_list
+did i add salt to my shopping list,shopping_list
+do i have toothpaste on my shopping list,shopping_list
+is there lettuce on my shopping list,shopping_list
+did i include butter in my shopping list,shopping_list
+did i put elbow noodles on the shopping list,shopping_list
+did i forget to put protein shakes on my shopping list,shopping_list
+do i have butter on my list,shopping_list
+is waffles on my list for shopping,shopping_list
+do i already have cereal on my shopping list,shopping_list
+did i remember to add milk to my shopping list,shopping_list
+check my shopping list,shopping_list
+read my shopping list,shopping_list
+shopping list,shopping_list
+what do i need to buy,shopping_list
+did i remember to put eggs on my shopping list,shopping_list
+is there much traffic between here and work right now,traffic
+what's the traffic like right now for my route to work,traffic
+is the traffic bad going downtown right now,traffic
+how's the traffic this morning,traffic
+how bad is the traffic on the way to downtown,traffic
+what's the traffic like going to central park,traffic
+is there heavy traffic on the way to the city,traffic
+how bad is traffic on the way into oakville right now,traffic
+how does the traffic look on my way to work right now,traffic
+what does my commute look like,traffic
+what is the traffic like on the road to downtown dallas,traffic
+what kind of traffic is on hwy 1 going to the downtown area right now,traffic
+"how is the traffic on rt 5 towards my work , community bank",traffic
+"is there any traffic on the road i take home from work right now, rt 40",traffic
+tell me how the traffic is on rt 7 to the airport today,traffic
+what will the traffic be like if i headed out to work right now,traffic
+what kind of traffic can i expect on the way to church,traffic
+how's the traffic to work,traffic
+can you give me a traffic update for a trip to the grocery store,traffic
+how's the traffic looking if i headed to fred meyer,traffic
+i need more checks because i am out,order_checks
+can i order new checks since i am out,order_checks
+"i am now out of checks, how do i order new ones",order_checks
+i need to order new checks because i am all out,order_checks
+i have no checks and need to order new checks,order_checks
+put in an order for more checks,order_checks
+how do i order more free checkbooks,order_checks
+i ran out of checks and need more ordered,order_checks
+please order more checks i just used the last one,order_checks
+i just used my last check and need more now,order_checks
+i ran out of checks and need more asap,order_checks
+i would like more checks sent to my address,order_checks
+how would i go about getting more checks for my western union account,order_checks
+i just used my final check order more,order_checks
+can i order checks online for my checking account,order_checks
+please send me more checkbooks,order_checks
+please notify my bank that i need more checks,order_checks
+how can i order checks for my savings account,order_checks
+i need to know how to order checks for my bank of america account,order_checks
+who do i contact to order more checks for my td bank account,order_checks
